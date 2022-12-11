@@ -1,7 +1,5 @@
 <?php
-
-/*
-include('SistemaSocialPro\model\conexion.php');
+include('conexion.php');
 
 session_start();
 
@@ -53,4 +51,3 @@ if(isset($_POST['user']) && isset($_POST['pass']) ){
     exit();
 }
 
-*/

@@ -1,6 +1,4 @@
-<form method='POST' action="securityModule/autentificarUsuario/getAutenticarUsuario.php">
-
-
+<form method='POST' action="../../model/usuario.php">
 
 <div class="mb-3">
     <label for="exampleFormControlInput1" class="form-label">Usuario</label>
